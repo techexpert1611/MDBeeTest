@@ -8,7 +8,7 @@ Before getting started, ensure that you have Python and pip installed on your sy
 
 ## Installation
 
-1. **Clone the repository:** 
+1. **Clone the repository:** https://github.com/techexpert1611/MDBeeTest
 2. **Navigate to the root directory** of the cloned repository where the `requirements.txt` file is located.
 3. **Create a virtual environment:** 
    ```bash
